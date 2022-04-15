@@ -1,0 +1,49 @@
+:root{
+  background-color: #062c43;
+}
+
+p {
+  color: #FFF979;
+  font-family: 'Spectral SC', serif;
+}
+
+h1,
+h2 {
+  color: #FFF979;
+  font-family: 'Lobster', cursive;;
+  font-size: 40px;
+}
+
+h3{
+  color: #FFF979;
+  font-family: 'Lobster', cursive;;
+  font-size: 40px;
+}
+ul{
+  color: #FFF979;
+  font-family: 'Lobster', cursive;;
+  font-size: 40px;
+}
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+ul{
+  text-align: center;
+}
+
+footer {
+  color: #FFF979;
+};
+
+a {
+  color: #FFF979;
+}
