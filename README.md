@@ -40,9 +40,9 @@ Create a one-page website for the musical album of your choice featured in one o
 * Use lowercase, combined with kebab case, to name folders and files (`do-this` or `do-this.html`); no spaces in folder or file names (`not this`); no camel case (`notThis`); no snake case (`not_this`).
 * Place all your markup in `index.html`.
 * Do not alter or remove the inclusion of `reset.css` in the `head` of `index.html`.
-* Place your CSS in `style.css`. You may use include more CSS files, should you need to. 
+* Place your CSS in `style.css`. You may use include more CSS files, should you need to.
 * Do not alter or remove any of the `.gitignore` files.
-* The only files you may add are images, which, if included, must go in the `img` folder. 
+* The only files you may add are images, which, if included, must go in the `img` folder.
 * Images _**must be 1MB or smaller**_. **Images above 1MB incur a 30-pt penalty, at the very least. If images are too big, then the entire pull request will be rejected and this project will be treated as though an assignment was never submitted.**
 
 ---
